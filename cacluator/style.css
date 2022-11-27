@@ -1,0 +1,49 @@
+#container{width: 250px;
+    height: 350px;
+    margin: 30px auto;
+    border: 3px solid skyblue;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    background-color: lightblue;
+    }
+    h1 {
+        text-align: center;
+        padding: 23px;
+        background-color: skyblue;
+        color: red;
+        text-decoration:underline;
+        }
+        input:hover
+        {
+        background-color: skyblue;
+        }
+        button:hover
+        {
+        background-color: skyblue;
+        }
+            
+        *{
+        margin: 0;
+        padding: 0;
+        }
+        
+        
+        .btn{
+        width: 50px;
+        height: 50px;
+        font-size: 25px;
+        margin: 4px;
+        cursor: pointer;
+        background-color: pink;
+        color: black;
+        
+        }
+        
+        .textview{
+        width: 150px;
+        margin: 5px;
+        font-size: 25px;
+        padding: 5px;
+        background-color: white;
+        }	
